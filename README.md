@@ -28,7 +28,7 @@ Create a new Telegram bot and obtain the API key. Set the API_KEY environment va
 ## Usage
 1. Run the script using the following command:
 ```bash
-python your_script_name.py
+python your_script_name.py 
 ```
 2. Interact with the bot on Telegram using the following commands:
     ```
